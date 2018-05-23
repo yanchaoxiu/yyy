@@ -1,7 +1,9 @@
 # coding:utf-8
 from appium import webdriver
-import SendKeys
 from time import sleep
+import unittest
+
+
 def swipeUp(driver, t=500, n=1):
     l = driver.get_window_size()
     x1 = l['width'] * 0.5
@@ -9,18 +11,31 @@ def swipeUp(driver, t=500, n=1):
     y2 = l['height'] * 0.25
     for i in range(n):
         driver.swipe(x1, y1, x1, y2, t)
-desired_caps = {
-    'platformName': 'Android',
-    'deviceName': '127.0.0.1:62001',
-    'platformVersion': '4.4.2',
-    'appPackage': 'com.tencent.wework',
-    'appActivity': 'com.tencent.wework.launch.LaunchSplashActivity',
-    'noReset': 'true',
-    'resetKeyboard': 'true',
-    'unicodeKeyboard': 'true'
-}
-driver = webdriver.Remote('http://127.0.0.1:4723/wd/hub', desired_caps)
-sleep(20)
+
+def swipeDown(driver, t=500, n=1):
+    l = driver.get_window_size()
+    x1 = l['width'] * 0.5
+    y1 = l['height'] * 0.25
+    y2 = l['height'] * 0.75
+    for i in range(n):
+        driver.swipe(x1, y1, x1, y2, t)
+
+
+class Union_app(unittest.TestCase):
+    desired_caps = {
+        'platformName': 'Android',
+        'deviceName': '127.0.0.1:62001',
+        'platformVersion': '4.4.2',
+        'appPackage': 'com.tencent.wework',
+        'appActivity': 'com.tencent.wework.launch.LaunchSplashActivity',
+        'noReset': 'true',
+        'resetKeyboard': 'true',
+        'unicodeKeyboard': 'true'
+    }
+    driver = webdriver.Remote('http://127.0.0.1:4723/wd/hub', desired_caps)
+    sleep(20)
+    driver.find_element_by_xpath("//*[@text='工作台']").click()
+    sleep(2)
 # driver.find_element_by_name(u"工作台").click()
 # sleep(2)
 # driver.find_element_by_name(u"工会家园").click()
@@ -675,32 +690,89 @@ sleep(20)
 # sleep(3)
 # driver.find_element_by_accessibility_id("立即发布").click()
 
-driver.find_element_by_xpath("//*[@text='工作台']").click()
-sleep(3)
-swipeUp(driver,n=2)
-sleep(2)
-driver.find_element_by_xpath("//*[@text='兴趣协会']").click()
-sleep(3)
-driver.find_element_by_xpath("//*[@text='我的协会']").click()
-sleep(3)
-driver.tap([(308,175)],100)
-sleep(5)
-driver.find_element_by_xpath("//android.view.View[@content-desc=\"\"]").click()
-sleep(3)
-# 添加活动成果
-driver.tap([(630,1056)],100)
-sleep(3)
-driver.find_element_by_accessibility_id("请选择").click()
-sleep(3)
-driver.find_element_by_xpath("//*[@text='剪纸小活动']").click()
-sleep(3)
-driver.find_element_by_class_name("android.widget.EditText").send_keys(u"一等奖")
-sleep(3)
-driver.find_element_by_xpath("//android.view.View/android.view.View[2]/android.widget.EditText[1]").send_keys(u"荣获一等奖")
-sleep(3)
-driver.find_element_by_accessibility_id("Link").click()
-sleep(3)
-driver.find_element_by_id("com.tencent.wework:id/tr").click()
-driver.find_element_by_id("com.tencent.wework:id/cb7").click()
-sleep(3)
-driver.find_element_by_accessibility_id("立即发布").click()
+
+    def test11(self):
+        print u"兴趣协会-发布普通协会活动"
+        swipeUp(self.driver, n=2)
+        sleep(2)
+        self.driver.find_element_by_xpath("//*[@text='兴趣协会']").click()
+        sleep(3)
+        self.driver.find_element_by_xpath("//*[@text='我的协会']").click()
+        sleep(5)
+        self.driver.find_element_by_accessibility_id("ycxA我来了 Link").click()
+        # self.driver.tap([(308, 175)], 100)
+        sleep(5)
+        self.driver.find_element_by_xpath("//android.view.View[@content-desc=\"\"]").click()
+        sleep(5)
+        self.driver.tap([(460, 1056)], 100)
+        sleep(5)
+        self.driver.find_element_by_accessibility_id(" Link").click()
+        sleep(3)
+        self.driver.tap([(354, 1144)], 100)
+        sleep(6)
+        self.driver.find_element_by_accessibility_id("Link").click()
+        sleep(3)
+        self.driver.find_element_by_id("com.tencent.wework:id/tr").click()
+        sleep(2)
+        self.driver.find_element_by_id("com.tencent.wework:id/cb7").click()
+        sleep(3)
+        self.driver.find_element_by_xpath(
+            "//android.widget.ListView/android.view.View[1]/android.widget.EditText[1]").send_keys(u"剪纸小活动")
+        sleep(3)
+        self.driver.find_element_by_xpath("//android.view.View[@content-desc=\"活动发布\"]"
+                                          "/android.widget.ListView[2]/android.view.View[2]/android.widget.EditText[1]") \
+            .send_keys("13527188046")
+        sleep(3)
+        self.driver.find_element_by_accessibility_id("选择时间").click()
+        sleep(3)
+        self.driver.swipe(361, 1128, 356, 1085)
+        self.driver.tap([(676, 899)], 100)
+        sleep(3)
+        self.driver.find_element_by_xpath \
+            (
+                "//android.view.View[@content-desc=\"活动发布\"]/android.widget.ListView[3]/android.view.View[2]/android.view.View[2]").click()
+        sleep(3)
+        self.driver.swipe(361, 1128, 356, 1037)
+        self.driver.tap([(676, 899)], 100)
+        sleep(3)
+        self.driver.tap([(624, 690)], 100)
+        sleep(15)
+        self.driver.tap([(350, 1240)], 100)
+        sleep(3)
+        self.driver.find_element_by_xpath \
+            ("//android.widget.ListView/android.view.View[2]/android.view.View[2]/android.widget.EditText[1]").send_keys(
+            u"南方通信大厦")
+        sleep(3)
+        self.driver.find_element_by_accessibility_id("无积分").click()
+        sleep(3)
+        self.driver.find_element_by_xpath("//*[@text='有积分']").click()
+        sleep(1)
+        swipeUp(self.driver, n=2)
+        sleep(2)
+        self.driver.tap([(620, 815)], 100)
+        sleep(3)
+        self.driver.tap([(612, 452)], 100)
+        self.driver.tap([(360, 1240)], 100)
+        sleep(3)
+        self.driver.tap([(644, 955)], 100)
+        sleep(3)
+        self.driver.press_keycode(keycode=15)
+        self.driver.press_keycode(keycode=15)
+        self.driver.press_keycode(keycode=15)
+        sleep(3)
+        self.driver.tap([(82, 1102)], 100)
+        sleep(3)
+        self.driver.keyevent(keycode=13)
+        self.driver.press_keycode(keycode=16)
+        sleep(3)
+        self.driver.find_element_by_accessibility_id("立即发布").click()
+        sleep(8)
+        self.driver.tap([(34, 70)], 100)
+        sleep(5)
+        print "ok"
+
+if __name__ == "__main__":
+    unittest.main()
+
+
+

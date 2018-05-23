@@ -1,16 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="BookmarkManager">
-    <bookmark url="file://$PROJECT_DIR$/gonghuiapp.py" description="# sleep(3)" line="260" />
+    <bookmark url="file://$PROJECT_DIR$/gonghuiapp.py" description="# sleep(3)" line="275" />
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f1081fb0-b374-4b34-adf9-dbb4889fc403" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gonghui/swipefz.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gonghui/test_app.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/run_case.py" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/report/result.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/run_all_case.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/run_case.py" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/workspace/ycx_slave" afterPath="$PROJECT_DIR$/workspace/ycx_slave" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gonghui/ts.py" afterPath="$PROJECT_DIR$/gonghui/ts.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/report/result.html" afterPath="$PROJECT_DIR$/report/result.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gonghui/test_app.py" afterPath="$PROJECT_DIR$/gonghui/test_app.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gonghuiapp.py" afterPath="$PROJECT_DIR$/gonghuiapp.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/gonghui/test_01.py" afterPath="$PROJECT_DIR$/gonghui/test_web.py" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -23,6 +25,7 @@
     <SUITE FILE_PATH="coverage/weixingonghui_ycx$appium1.coverage" NAME="appium1 Coverage Results" MODIFIED="1513822536763" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="D:/untitled" />
     <SUITE FILE_PATH="coverage/weixingonghui_ycx$run_all_case__1_.coverage" NAME="run_all_case (1) Coverage Results" MODIFIED="1513154057150" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/weixingonghui_ycx$Unittests_for_tiaosi_Test_test01.coverage" NAME="Unittests for tiaosi.Test.test01 Coverage Results" MODIFIED="1515378060069" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/gonghui" />
+    <SUITE FILE_PATH="coverage/weixingonghui_ycx$run_case_app.coverage" NAME="run_case_app Coverage Results" MODIFIED="1527057312320" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/weixingonghui_ycx$test_02.coverage" NAME="test_02 Coverage Results" MODIFIED="1513151799609" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/gonghui" />
     <SUITE FILE_PATH="coverage/weixingonghui_ycx$Unittests_for_test_01_Union_test_4.coverage" NAME="Unittests for test_01.Union.test_4 Coverage Results" MODIFIED="1515145744649" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/gonghui" />
     <SUITE FILE_PATH="coverage/weixingonghui_ycx$63.coverage" NAME="63 Coverage Results" MODIFIED="1513146158447" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/Desktop/test/test_blog" />
@@ -31,19 +34,20 @@
     <SUITE FILE_PATH="coverage/weixingonghui_ycx$ts.coverage" NAME="ts Coverage Results" MODIFIED="1515546655746" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/gonghui" />
     <SUITE FILE_PATH="coverage/weixingonghui_ycx$zsq.coverage" NAME="zsq Coverage Results" MODIFIED="1513148301338" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/Desktop/test1/test_blog" />
     <SUITE FILE_PATH="coverage/weixingonghui_ycx$gonhui.coverage" NAME="gonhui Coverage Results" MODIFIED="1515134900553" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="D:/untitled" />
+    <SUITE FILE_PATH="coverage/weixingonghui_ycx$Unittests_for_test_app_Union_app_test10.coverage" NAME="Unittests for test_app.Union_app.test10 Coverage Results" MODIFIED="1527056598526" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/gonghui" />
     <SUITE FILE_PATH="coverage/weixingonghui_ycx$appium2.coverage" NAME="appium2 Coverage Results" MODIFIED="1513318204747" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="D:/untitled" />
     <SUITE FILE_PATH="coverage/weixingonghui_ycx$Unittests_for_swipefz_swipe_l.coverage" NAME="Unittests for swipefz.swipe_l Coverage Results" MODIFIED="1515570738107" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/gonghui" />
-    <SUITE FILE_PATH="coverage/weixingonghui_ycx$gonghuiapp.coverage" NAME="gonghuiapp Coverage Results" MODIFIED="1514884695533" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/weixingonghui_ycx$gonghuiapp.coverage" NAME="gonghuiapp Coverage Results" MODIFIED="1527065662593" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/weixingonghui_ycx$run_mian.coverage" NAME="run_mian Coverage Results" MODIFIED="1513147894867" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/Desktop/test1/test_blog" />
     <SUITE FILE_PATH="coverage/weixingonghui_ycx$Unittests_for_test_01_Union_test_1.coverage" NAME="Unittests for test_01.Union.test_1 Coverage Results" MODIFIED="1513220707533" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/gonghui" />
     <SUITE FILE_PATH="coverage/weixingonghui_ycx$gonhui__1_.coverage" NAME="gonhui (1) Coverage Results" MODIFIED="1515136957425" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/weixingonghui_ycx$gonghui.coverage" NAME="gonghui Coverage Results" MODIFIED="1515137902134" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/weixingonghui_ycx$Unittests_for_test_01_Union.coverage" NAME="Unittests for test_01.Union Coverage Results" MODIFIED="1515144277910" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/gonghui" />
-    <SUITE FILE_PATH="coverage/weixingonghui_ycx$run_all_case.coverage" NAME="run_all_case Coverage Results" MODIFIED="1515388894123" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/weixingonghui_ycx$run_all_case.coverage" NAME="run_all_case Coverage Results" MODIFIED="1525749576096" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/weixingonghui_ycx$Unittests_for_tiaosi_Test_test03.coverage" NAME="Unittests for tiaosi.Test.test03 Coverage Results" MODIFIED="1515378157263" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/gonghui" />
     <SUITE FILE_PATH="coverage/weixingonghui_ycx$Unittests_in_test_01_py.coverage" NAME="Unittests in test_01.py Coverage Results" MODIFIED="1515387039260" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/gonghui" />
     <SUITE FILE_PATH="coverage/weixingonghui_ycx$Unittests_for_test_01_Union_test11.coverage" NAME="Unittests for test_01.Union.test11 Coverage Results" MODIFIED="1515381558294" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/gonghui" />
-    <SUITE FILE_PATH="coverage/weixingonghui_ycx$run_case.coverage" NAME="run_case Coverage Results" MODIFIED="1515571099762" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/weixingonghui_ycx$run_case.coverage" NAME="run_case Coverage Results" MODIFIED="1525749416661" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/weixingonghui_ycx$Unittests_for_tiaosi_Test.coverage" NAME="Unittests for tiaosi.Test Coverage Results" MODIFIED="1515378141373" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/gonghui" />
     <SUITE FILE_PATH="coverage/weixingonghui_ycx$Unittests_for_test_01_Union_test_3.coverage" NAME="Unittests for test_01.Union.test_3 Coverage Results" MODIFIED="1515143436218" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/gonghui" />
     <SUITE FILE_PATH="coverage/weixingonghui_ycx$Unittests_for_test_01_Union_test05.coverage" NAME="Unittests for test_01.Union.test05 Coverage Results" MODIFIED="1515382904688" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/gonghui" />
@@ -53,119 +57,18 @@
     <SUITE FILE_PATH="coverage/weixingonghui_ycx$Unittests_in_tiaosi_py.coverage" NAME="Unittests in tiaosi.py Coverage Results" MODIFIED="1515378167520" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/gonghui" />
     <SUITE FILE_PATH="coverage/weixingonghui_ycx$Unittests_for_test_app_Unionapp_test01.coverage" NAME="Unittests for test_app.Unionapp.test01 Coverage Results" MODIFIED="1515396671894" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/gonghui" />
     <SUITE FILE_PATH="coverage/weixingonghui_ycx$Unittests_for_test_app_Union_app_test11.coverage" NAME="Unittests for test_app.Union_app.test11 Coverage Results" MODIFIED="1515568410487" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/gonghui" />
+    <SUITE FILE_PATH="coverage/weixingonghui_ycx$run_case_hexi.coverage" NAME="run_case_hexi Coverage Results" MODIFIED="1521171933130" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/weixingonghui_ycx$jt.coverage" NAME="jt Coverage Results" MODIFIED="1513220376160" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/Desktop/test1/test_blog" />
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="test_01.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/gonghui/test_01.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="108">
-              <caret line="6" column="0" lean-forward="true" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
-              <folding>
-                <element signature="e#15#45#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="test_app.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/gonghui/test_app.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-360">
-              <caret line="1" column="6" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="3" selection-end-column="15" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="swipefz.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/gonghui/swipefz.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="162">
-              <caret line="9" column="36" lean-forward="true" selection-start-line="9" selection-start-column="36" selection-end-line="9" selection-end-column="36" />
-              <folding>
-                <element signature="e#16#38#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="gonghuiapp.py" pinned="false" current-in-tab="false">
+      <file leaf-file-name="gonghuiapp.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/gonghuiapp.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="12186">
-              <caret line="695" column="8" lean-forward="false" selection-start-line="237" selection-start-column="0" selection-end-line="705" selection-end-column="55" />
+            <state relative-caret-position="1916">
+              <caret line="773" column="26" lean-forward="true" selection-start-line="773" selection-start-column="26" selection-end-line="773" selection-end-column="26" />
               <folding>
                 <element signature="e#15#43#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ts.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/gonghui/ts.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2232">
-              <caret line="184" column="0" lean-forward="true" selection-start-line="184" selection-start-column="0" selection-end-line="184" selection-end-column="0" />
-              <folding>
-                <element signature="e#15#43#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="pagobject.py" pinned="false" current-in-tab="false">
-        <entry file="file://D:/untitled/pagobject.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="54">
-              <caret line="3" column="22" lean-forward="false" selection-start-line="3" selection-start-column="22" selection-end-line="3" selection-end-column="22" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="gonghui.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/gonghui.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="7290">
-              <caret line="409" column="22" lean-forward="false" selection-start-line="409" selection-start-column="22" selection-end-line="409" selection-end-column="22" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="run_all_case.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/run_all_case.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="129">
-              <caret line="26" column="0" lean-forward="true" selection-start-line="26" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
-              <folding>
-                <element signature="e#15#45#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="run_case.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/run_case.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="414">
-              <caret line="23" column="10" lean-forward="true" selection-start-line="23" selection-start-column="10" selection-end-line="23" selection-end-column="10" />
-              <folding>
-                <element signature="e#15#30#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="appium2.py" pinned="false" current-in-tab="false">
-        <entry file="file://D:/untitled/appium2.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1080">
-              <caret line="60" column="25" lean-forward="false" selection-start-line="57" selection-start-column="1" selection-end-line="64" selection-end-column="40" />
-              <folding>
-                <element signature="e#8323#8351#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -197,16 +100,20 @@
         <option value="D:/untitled/appium2.py" />
         <option value="$PROJECT_DIR$/gonghui/tiaosi.py" />
         <option value="D:/untitled/gonhui.py" />
-        <option value="$PROJECT_DIR$/gonghuiapp.py" />
         <option value="$PROJECT_DIR$/jump.py" />
         <option value="$PROJECT_DIR$/gonghui/tiaos.py" />
         <option value="$PROJECT_DIR$/gonghui.py" />
         <option value="$PROJECT_DIR$/gonghui/test_01.py" />
         <option value="$PROJECT_DIR$/run_all_case.py" />
         <option value="$PROJECT_DIR$/gonghui/ts.py" />
-        <option value="$PROJECT_DIR$/gonghui/test_app.py" />
         <option value="$PROJECT_DIR$/gonghui/swipefz.py" />
         <option value="$PROJECT_DIR$/run_case.py" />
+        <option value="$PROJECT_DIR$/run_case_hexi.py" />
+        <option value="$PROJECT_DIR$/run_case_web.py" />
+        <option value="$PROJECT_DIR$/run_case_app.py" />
+        <option value="$PROJECT_DIR$/report/result_web.html" />
+        <option value="$PROJECT_DIR$/gonghui/test_app.py" />
+        <option value="$PROJECT_DIR$/gonghuiapp.py" />
       </list>
     </option>
   </component>
@@ -216,13 +123,15 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" extendedState="1">
-    <option name="x" value="436" />
-    <option name="y" value="43" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-33" />
+    <option name="y" value="22" />
     <option name="width" value="952" />
     <option name="height" value="723" />
   </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
       <flattenPackages />
@@ -238,6 +147,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -253,13 +163,12 @@
             <path>
               <item name="weixingonghui-ycx" type="b2602c69:ProjectViewProjectNode" />
               <item name="weixingonghui-ycx" type="462c0819:PsiDirectoryNode" />
-              <item name="workspace" type="462c0819:PsiDirectoryNode" />
+              <item name="report" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scratches" />
       <pane id="Scope">
         <subPane subId="Project Files">
           <expand>
@@ -281,6 +190,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+    <property name="last_opened_file_path" value="D:/blog" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -294,8 +204,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.run_case">
-    <configuration name="Unittests for swipefz.swipe_l" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.gonghuiapp">
+    <configuration name="Unittests for test_app.Union_app.test10" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs />
@@ -307,38 +217,44 @@
       <module name="weixingonghui-ycx" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;swipefz.swipe_l&quot;" />
+      <option name="_new_target" value="&quot;test_app.Union_app.test10&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
     </configuration>
-    <configuration name="Unittests for test_app.Union_app.test11" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+    <configuration name="gonghuiapp" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
-      <envs />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/gonghui" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="weixingonghui-ycx" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;test_app.Union_app.test11&quot;" />
-      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/gonghuiapp.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
     </configuration>
-    <configuration name="Unittests in test_app.py" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+    <configuration name="run_all_case" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
-      <envs />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/gonghui" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="weixingonghui-ycx" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;$PROJECT_DIR$/gonghui/test_app.py&quot;" />
-      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/run_all_case.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
     </configuration>
     <configuration name="run_case" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -358,38 +274,38 @@
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
     </configuration>
-    <configuration name="ts" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="run_case_app" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/gonghui" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="weixingonghui-ycx" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/gonghui/ts.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/run_case_app.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python tests.Unittests in test_app.py" />
-      <item index="1" class="java.lang.String" itemvalue="Python.ts" />
-      <item index="2" class="java.lang.String" itemvalue="Python.run_case" />
-      <item index="3" class="java.lang.String" itemvalue="Python tests.Unittests for test_app.Union_app.test11" />
-      <item index="4" class="java.lang.String" itemvalue="Python tests.Unittests for swipefz.swipe_l" />
+      <item index="0" class="java.lang.String" itemvalue="Python.run_case" />
+      <item index="1" class="java.lang.String" itemvalue="Python.run_all_case" />
+      <item index="2" class="java.lang.String" itemvalue="Python tests.Unittests for test_app.Union_app.test10" />
+      <item index="3" class="java.lang.String" itemvalue="Python.gonghuiapp" />
+      <item index="4" class="java.lang.String" itemvalue="Python.run_case_app" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.run_case" />
-        <item index="1" class="java.lang.String" itemvalue="Python tests.Unittests for swipefz.swipe_l" />
-        <item index="2" class="java.lang.String" itemvalue="Python tests.Unittests for test_app.Union_app.test11" />
-        <item index="3" class="java.lang.String" itemvalue="Python tests.Unittests in test_app.py" />
-        <item index="4" class="java.lang.String" itemvalue="Python.ts" />
+        <item index="0" class="java.lang.String" itemvalue="Python.gonghuiapp" />
+        <item index="1" class="java.lang.String" itemvalue="Python.run_case_app" />
+        <item index="2" class="java.lang.String" itemvalue="Python tests.Unittests for test_app.Union_app.test10" />
+        <item index="3" class="java.lang.String" itemvalue="Python.run_all_case" />
+        <item index="4" class="java.lang.String" itemvalue="Python.run_case" />
       </list>
     </recent_temporary>
   </component>
@@ -407,11 +323,11 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="Unittests_for_swipefz_swipe_l - 2018.01.10 at 15h 52m 19s.xml">
-      <configuration name="Unittests for swipefz.swipe_l" configurationId="tests" />
+    <history-entry file="Unittests_for_test_app_Union_app_test10 - 2018.05.23 at 14h 23m 09s.xml">
+      <configuration name="Unittests for test_app.Union_app.test10" configurationId="tests" />
     </history-entry>
-    <history-entry file="Unittests_for_test_app_Union_app_test11 - 2018.01.10 at 15h 11m 49s.xml">
-      <configuration name="Unittests for test_app.Union_app.test11" configurationId="tests" />
+    <history-entry file="Unittests_for_test_app_Union_app_test10 - 2018.05.23 at 14h 23m 47s.xml">
+      <configuration name="Unittests for test_app.Union_app.test10" configurationId="tests" />
     </history-entry>
     <history-entry file="Unittests_for_test_app_Union_app_test11 - 2018.01.10 at 15h 16m 04s.xml">
       <configuration name="Unittests for test_app.Union_app.test11" configurationId="tests" />
@@ -439,16 +355,16 @@
     </history-entry>
   </component>
   <component name="ToolWindowManager">
-    <frame x="436" y="43" width="952" height="723" extended-state="1" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.21153846" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.15960665" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.5065574" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2598684" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
@@ -459,7 +375,7 @@
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32894737" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
     <layout-to-restore>
@@ -504,44 +420,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/gonghui/test_01.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1700">
-          <caret line="89" column="26" lean-forward="false" selection-start-line="89" selection-start-column="26" selection-end-line="89" selection-end-column="26" />
-          <folding>
-            <element signature="e#15#45#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://D:/untitled/appium1.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="460">
-          <caret line="26" column="22" lean-forward="true" selection-start-line="26" selection-start-column="22" selection-end-line="26" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://D:/untitled/gonhui.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="40">
-          <caret line="2" column="7" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="3" selection-end-column="64" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://D:/untitled/appium2.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="80">
-          <caret line="6" column="32" lean-forward="true" selection-start-line="6" selection-start-column="32" selection-end-line="6" selection-end-column="32" />
-          <folding>
-            <element signature="e#8323#8351#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/Desktop/test/test_blog/test_case/bolg_home/test_home.py" />
-    <entry file="file://$USER_HOME$/Desktop/test/test_blog/test_case/bolg_home/test_home_1.py" />
-    <entry file="file://$USER_HOME$/Desktop/test/test_blog/test_case/bolg_set/test_set.py" />
-    <entry file="file://$USER_HOME$/Desktop/test/test_blog/test_case/__init__.py" />
     <entry file="file://C:/Python27/Lib/smtplib.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="129">
@@ -554,30 +432,9 @@
     <entry file="file://$USER_HOME$/Desktop/test/test_blog/dt.py" />
     <entry file="file://$USER_HOME$/Desktop/test/test_blog/exc.py" />
     <entry file="file://$USER_HOME$/Desktop/test/test_blog/fj.py" />
-    <entry file="file://$USER_HOME$/Desktop/test1/test_blog/yc.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="220">
-          <caret line="11" column="19" lean-forward="true" selection-start-line="11" selection-start-column="19" selection-end-line="11" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/Desktop/test1/test_blog/zsq.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="320">
-          <caret line="37" column="39" lean-forward="true" selection-start-line="37" selection-start-column="39" selection-end-line="37" selection-end-column="39" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/Desktop/test1/test_blog/run_mian.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-359">
-          <caret line="19" column="0" lean-forward="false" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
-          <folding>
-            <element signature="e#15#30#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$USER_HOME$/Desktop/test1/test_blog/yc.py" />
+    <entry file="file://$USER_HOME$/Desktop/test1/test_blog/zsq.py" />
+    <entry file="file://$USER_HOME$/Desktop/test1/test_blog/run_mian.py" />
     <entry file="file://D:/test1/test_blog/run_mian.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-929">
@@ -592,13 +449,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/Desktop/test1/test_blog/fj.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="24" column="25" lean-forward="false" selection-start-line="24" selection-start-column="12" selection-end-line="24" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$USER_HOME$/Desktop/test1/test_blog/fj.py" />
     <entry file="file://C:/Python27/Lib/unittest/suite.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="129">
@@ -615,13 +466,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/Desktop/test1/test_blog/jt.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-115">
-          <caret line="26" column="22" lean-forward="true" selection-start-line="26" selection-start-column="22" selection-end-line="26" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$USER_HOME$/Desktop/test1/test_blog/jt.py" />
     <entry file="file://C:/Python27/Lib/site-packages/selenium/webdriver/support/wait.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="789">
@@ -643,20 +488,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/Desktop/python-client-master/python-client-master/appium/webdriver/mobilecommand.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-100">
-          <caret line="14" column="0" lean-forward="true" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$USER_HOME$/Desktop/python-client-master/python-client-master/appium/webdriver/mobilecommand.py" />
     <entry file="file://C:/Python27/Lib/site-packages/selenium/webdriver/remote/webdriver.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="318">
           <caret line="282" column="8" lean-forward="false" selection-start-line="282" selection-start-column="8" selection-end-line="282" selection-end-column="8" />
-          <folding>
-            <marker date="1514431857528" expanded="true" signature="28714:28754" ph="..." />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -696,15 +532,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="324">
           <caret line="19" column="26" lean-forward="false" selection-start-line="19" selection-start-column="26" selection-end-line="19" selection-end-column="26" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/gonghui.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="7290">
-          <caret line="409" column="22" lean-forward="false" selection-start-line="409" selection-start-column="22" selection-end-line="409" selection-end-column="22" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -712,7 +539,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="54">
           <caret line="3" column="22" lean-forward="false" selection-start-line="3" selection-start-column="22" selection-end-line="3" selection-end-column="22" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -720,9 +546,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1080">
           <caret line="60" column="25" lean-forward="false" selection-start-line="57" selection-start-column="1" selection-end-line="64" selection-end-column="40" />
-          <folding>
-            <element signature="e#8323#8351#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -730,11 +553,24 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="91">
           <caret line="328" column="0" lean-forward="false" selection-start-line="328" selection-start-column="0" selection-end-line="328" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/workspace/run_case.py">
+    <entry file="file://$PROJECT_DIR$/workspace/run_case.py" />
+    <entry file="file://$PROJECT_DIR$/gonghui/swipefz.py" />
+    <entry file="file://$PROJECT_DIR$/report/hexiresult.html" />
+    <entry file="file://$PROJECT_DIR$/run_case_hexi.py" />
+    <entry file="file://$PROJECT_DIR$/gonghui/test_hexi.py" />
+    <entry file="file://$PROJECT_DIR$/gonghui.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="526">
+          <caret line="409" column="22" lean-forward="false" selection-start-line="409" selection-start-column="22" selection-end-line="409" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/run_all_case.py" />
+    <entry file="file://$PROJECT_DIR$/report/result.html" />
+    <entry file="file://$PROJECT_DIR$/report/result_app.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -742,71 +578,87 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/gonghui/test_01.py">
+    <entry file="file://$PROJECT_DIR$/run_case.py" />
+    <entry file="file://$PROJECT_DIR$/report/result_web.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="10" column="32" lean-forward="false" selection-start-line="10" selection-start-column="32" selection-end-line="10" selection-end-column="32" />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#div#0;n#td#1;n#tr#2;n#table#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#td#1;n#tr#3;n#table#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#td#1;n#tr#4;n#table#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#td#1;n#tr#5;n#table#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#td#1;n#tr#6;n#table#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#td#1;n#tr#7;n#table#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#td#1;n#tr#8;n#table#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#td#1;n#tr#9;n#table#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#td#1;n#tr#10;n#table#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#td#1;n#tr#11;n#table#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#td#1;n#tr#12;n#table#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#td#1;n#tr#13;n#table#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#td#1;n#tr#14;n#table#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#td#1;n#tr#15;n#table#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="e#14801#14807#1" expanded="false" />
+            <element signature="e#14846#14852#1" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gonghui/test_web.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="108">
-          <caret line="6" column="0" lean-forward="true" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+          <caret line="6" column="0" lean-forward="false" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
           <folding>
-            <element signature="e#15#45#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/run_all_case.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="129">
-          <caret line="26" column="0" lean-forward="true" selection-start-line="26" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
-          <folding>
-            <element signature="e#15#45#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/gonghui/ts.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2232">
-          <caret line="184" column="0" lean-forward="true" selection-start-line="184" selection-start-column="0" selection-end-line="184" selection-end-column="0" />
-          <folding>
-            <element signature="e#15#43#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/gonghui/swipefz.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="162">
-          <caret line="9" column="36" lean-forward="true" selection-start-line="9" selection-start-column="36" selection-end-line="9" selection-end-column="36" />
-          <folding>
-            <element signature="e#16#38#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/run_case.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="414">
-          <caret line="23" column="10" lean-forward="true" selection-start-line="23" selection-start-column="10" selection-end-line="23" selection-end-column="10" />
-          <folding>
-            <element signature="e#15#30#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/gonghuiapp.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="12186">
-          <caret line="695" column="8" lean-forward="false" selection-start-line="237" selection-start-column="0" selection-end-line="705" selection-end-column="55" />
-          <folding>
-            <element signature="e#15#43#0" expanded="true" />
+            <element signature="e#15#45#0" expanded="false" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/gonghui/test_app.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-360">
-          <caret line="1" column="6" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="3" selection-end-column="15" />
+        <state relative-caret-position="-8164">
+          <caret line="8" column="25" lean-forward="true" selection-start-line="8" selection-start-column="25" selection-end-line="8" selection-end-column="25" />
+          <folding>
+            <element signature="e#15#43#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/run_case_web.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="234">
+          <caret line="19" column="0" lean-forward="false" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
+          <folding>
+            <element signature="e#15#45#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/run_case_app.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="14" column="19" lean-forward="true" selection-start-line="14" selection-start-column="19" selection-end-line="14" selection-end-column="19" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gonghui/ts.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="653">
+          <caret line="213" column="7" lean-forward="true" selection-start-line="213" selection-start-column="0" selection-end-line="214" selection-end-column="19" />
+          <folding>
+            <element signature="e#15#43#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gonghuiapp.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1916">
+          <caret line="773" column="26" lean-forward="true" selection-start-line="773" selection-start-column="26" selection-end-line="773" selection-end-column="26" />
+          <folding>
+            <element signature="e#15#43#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

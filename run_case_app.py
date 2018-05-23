@@ -17,8 +17,8 @@ def all_case():
 
 
 if __name__ == "__main__":
-    report_abspath = os.path.join(report_path, "result.html")
+    report_abspath = os.path.join(report_path, "result_app.html")
 fp = open(report_abspath, "wb")
-runner = HTMLTestRunner.HTMLTestRunner(stream=fp,title=u'自动化测试报告,测试结果如下：', description=u'用例执行情况：')
+runner = HTMLTestRunner.HTMLTestRunner(stream=fp,title=u'微信公户APP端自动化测试报告,测试结果如下：', description=u'用例执行情况：')
 runner.run(all_case())
 fp.close()

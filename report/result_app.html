@@ -2,7 +2,7 @@
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head>
-    <title>自动化测试报告,测试结果如下：</title>
+    <title>微信公户APP端自动化测试报告,测试结果如下：</title>
     <meta name="generator" content="HTMLTestRunner 0.8.2"/>
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
     
@@ -188,10 +188,10 @@ function showOutput(id, name) {
 --></script>
 
 <div class='heading'>
-<h1>自动化测试报告,测试结果如下：</h1>
-<p class='attribute'><strong>Start Time:</strong> 2018-01-10 16:51:15</p>
-<p class='attribute'><strong>Duration:</strong> 0:17:56.677000</p>
-<p class='attribute'><strong>Status:</strong> Pass 11</p>
+<h1>微信公户APP端自动化测试报告,测试结果如下：</h1>
+<p class='attribute'><strong>Start Time:</strong> 2018-05-23 17:03:07</p>
+<p class='attribute'><strong>Duration:</strong> 0:17:01.077000</p>
+<p class='attribute'><strong>Status:</strong> Pass 10 Error 1</p>
 
 <p class='description'>用例执行情况：</p>
 </div>
@@ -221,12 +221,12 @@ function showOutput(id, name) {
     <td>View</td>
 </tr>
 
-<tr class='passClass'>
+<tr class='errorClass'>
     <td>test_app.Union_app</td>
     <td>11</td>
-    <td>11</td>
+    <td>10</td>
     <td>0</td>
-    <td>0</td>
+    <td>1</td>
     <td><a href="javascript:showClassDetail('c1',11)">Detail</a></td>
 </tr>
 
@@ -490,23 +490,35 @@ ok
     </td>
 </tr>
 
-<tr id='pt1.11' class='hiddenRow'>
-    <td class='none'><div class='testcase'>test11</div></td>
+<tr id='ft1.11' class='none'>
+    <td class='errorCase'><div class='testcase'>test11</div></td>
     <td colspan='5' align='center'>
 
     <!--css div popup start-->
-    <a class="popup_link" onfocus='this.blur();' href="javascript:showTestDetail('div_pt1.11')" >
-        pass</a>
+    <a class="popup_link" onfocus='this.blur();' href="javascript:showTestDetail('div_ft1.11')" >
+        error</a>
 
-    <div id='div_pt1.11' class="popup_window">
+    <div id='div_ft1.11' class="popup_window">
         <div style='text-align: right; color:red;cursor:pointer'>
-        <a onfocus='this.blur();' onclick="document.getElementById('div_pt1.11').style.display = 'none' " >
+        <a onfocus='this.blur();' onclick="document.getElementById('div_ft1.11').style.display = 'none' " >
            [x]</a>
         </div>
         <pre>
         
-pt1.11: 兴趣协会-发布普通协会活动（定期活动类似，尚未写自动化case)
-ok
+ft1.11: 兴趣协会-发布普通协会活动（定期活动类似，尚未写自动化case)
+Traceback (most recent call last):
+  File "D:\weixingonghui-ycx\gonghui\test_app.py", line 472, in test11
+    self.driver.tap([(612,452)],100)
+  File "C:\Python27\lib\site-packages\appium\webdriver\webdriver.py", line 249, in tap
+    action.perform()
+  File "C:\Python27\lib\site-packages\appium\webdriver\common\touch_action.py", line 94, in perform
+    self._driver.execute(Command.TOUCH_ACTION, params)
+  File "C:\Python27\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 236, in execute
+    self.error_handler.check_response(response)
+  File "C:\Python27\lib\site-packages\appium\webdriver\errorhandler.py", line 29, in check_response
+    raise wde
+WebDriverException: Message: An unknown server-side error occurred while processing the command.
+
 
 
         </pre>
@@ -519,9 +531,9 @@ ok
 <tr id='total_row'>
     <td>Total</td>
     <td>11</td>
-    <td>11</td>
+    <td>10</td>
     <td>0</td>
-    <td>0</td>
+    <td>1</td>
     <td>&nbsp;</td>
 </tr>
 </table>

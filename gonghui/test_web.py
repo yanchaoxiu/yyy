@@ -11,7 +11,7 @@ class Union(unittest.TestCase):
     @classmethod
     def setUpClass(cls):
         print u"打开登录页面"
-        profile_directory = r'C:\Users\Administrator\AppData\Roaming\Mozilla\Firefox\Profiles\geik64xc.default'
+        profile_directory = r'C:\Users\Administrator\AppData\Roaming\Mozilla\Firefox\Profiles\h6b7grdr.default'
         profile = webdriver.FirefoxProfile(profile_directory)
         cls.driver = webdriver.Firefox(profile)
         url = "http://etongwang.net:8088/wxgh/admin/index.html"

@@ -394,7 +394,7 @@ class Union_app(unittest.TestCase):
         sleep(3)
         self.driver.tap([(600,735)],100)
         sleep(3)
-        self.driver.swipe(600,1130,600,1035)
+        self.driver.swipe(600,1125,600,1029)
         sleep(2)
         self.driver.tap([(680,900)],100)
         sleep(3)
